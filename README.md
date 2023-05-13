@@ -1,6 +1,6 @@
 # Farming-Game
 
-Code-along project by Clear Code: https://www.youtube.com/watch?v=T4IX36sP_0c&ab_channel=ClearCode
+Code-along project by Clear Code: https://www.youtube.com/watch?v=T4IX36sP_0c&ab_channel=ClearCode <br>
 A Stardew Valley style game in Python and Pygame. This includes 
 farming, a day and night cycle, weather effects, music
 and a merchant. 
